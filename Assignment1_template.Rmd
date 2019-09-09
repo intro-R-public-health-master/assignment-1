@@ -1,0 +1,32 @@
+---
+title: "Assignment 1: Data visualization"
+author: "Your Name"
+date: "Today's date"
+output: html_document
+---
+
+**Due Sunday, September 22, 2019 @ 11:59pm through Github**
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+library(tidyverse)
+load("nmes2018.rda")
+```
+
+### Question 1
+```{r}
+#Put your code for question 1 here
+
+```
+
+
+### Question 2
+```{r}
+#Put your code for question 2 here
+
+```
+
+Replace this text with your sentences about your graph
