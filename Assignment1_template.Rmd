@@ -11,6 +11,7 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+This chunk of code will load the `tidyverse` so that `ggplot2` is available and will load the full NMES data set.
 ```{r}
 library(tidyverse)
 load("nmes2018.rda")
