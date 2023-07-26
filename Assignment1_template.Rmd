@@ -5,7 +5,7 @@ date: "Today's date"
 output: html_document
 ---
 
-**Due Sunday, September 25, 2022 @ 11:59pm through Github**
+**Due Sunday, September 24, 2023 @ 11:59pm through Github**
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -30,4 +30,4 @@ load("nmes2018.rda")
 
 ```
 
-Replace this text with your sentences about your graph
+Replace this text with your sentences about your graph.
