@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{r}
 library(tidyverse)
-load(nmes2018.rda)
+load("nmes2018.rda")
 ```
 
 ### Question 1
