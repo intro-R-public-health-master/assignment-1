@@ -5,29 +5,28 @@ date: "Today's date"
 output: html_document
 ---
 
-**Due Sunday, September 21, 2025 @ 11:59pm through Github**
+**Due Sunday, September 27, 2026 @ 11:59pm through Github**
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-This chunk of code will load the `tidyverse` so that `ggplot2` is available and will load the full NMES data set.
 ```{r}
 library(tidyverse)
-load("nmes2018.rda")
+load(nmes2018.rda)
 ```
 
-### Question 1 -- reproduce graph
+### Question 1
 ```{r}
 #Put your code for question 1 here
 
 ```
 
 
-### Question 2 -- create your own graph
+### Question 2
 ```{r}
 #Put your code for question 2 here
 
 ```
 
-Replace this text with your sentences about your graph.
+Replace this text with your sentences about your graph
